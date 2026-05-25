@@ -187,11 +187,11 @@ Install with: `pip install -r requirements.txt`
 If you use this code or framework, please cite:
 
 ```bibtex
-@article{eze2026ttaf,
+@article{opara2026ttaf,
   title={Threshold Transportability and Post-Training Threshold Adaptation 
          in Clinical Tabular AI: A Multi-Dimensional Evaluation for 
          Gestational Diabetes Prediction},
-  author={Eze, Mirabel Chinenyenwa Chioma},
+  author={Opara, Chinenye},
   journal={Artificial Intelligence in Medicine},
   year={2026},
   note={Submitted}
